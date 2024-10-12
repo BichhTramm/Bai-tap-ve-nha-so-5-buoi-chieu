@@ -33,7 +33,7 @@ public:
 
 int main() {
     // Tạo một đối tượng Student
-    Student s1("Nguyen Quang Truong", 18, 2.9);
+    Student s1("Pham Thi Bich Tram", 18, 2.9);
 
     // Hiển thị thông tin sinh viên
     cout << "Thông tin sinh viên:" << endl;
